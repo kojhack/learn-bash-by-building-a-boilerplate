@@ -121,3 +121,4 @@ touch inde
 ls --color=auto
 rm inde
 touch index.js
+touch .gitignore
