@@ -243,3 +243,9 @@ ls --color=auto
 cd ../../..
 find
 find -name images
+cd client/assets/images
+ls --color=auto
+rm header.png
+cd ../../..
+touch header.png
+mv header.png client/assets/images
