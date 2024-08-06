@@ -117,3 +117,7 @@ touch style.css
 rm style.css
 touch styles.css
 ls --color=auto
+touch inde
+ls --color=auto
+rm inde
+touch index.js
