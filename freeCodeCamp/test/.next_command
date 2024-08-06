@@ -172,3 +172,20 @@ cd fonts
 mv lato.ttf website
 cd ..
 find
+mv lato.ttf fonts
+ls --color=auto
+cd fonts
+ls --color=auto
+mv website lato.ttf
+ls --color=auto
+cp lato.ttf website
+rm lato.ttf
+cd ..
+ls --color=auto
+cd fonts
+ls --color=auto
+rm website
+cd ..
+ls --color=auto
+touch lato.ttf
+mv lato.ttf fonts
