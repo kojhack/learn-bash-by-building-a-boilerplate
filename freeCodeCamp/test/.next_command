@@ -292,3 +292,4 @@ cd ../..
 ls --color=auto
 cd project
 ls --color=auto
+mv website website-boilerplate
