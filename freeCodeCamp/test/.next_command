@@ -212,3 +212,5 @@ find
 __vsc_prompt_cmd_original
 find client
 find --help
+__vsc_prompt_cmd_original
+find -name index.html
