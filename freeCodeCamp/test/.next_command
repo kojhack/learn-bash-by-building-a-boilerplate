@@ -207,3 +207,4 @@ mv index.html client/src
 fins
 find
 mv index.js client/src
+mv styles.css client/src
