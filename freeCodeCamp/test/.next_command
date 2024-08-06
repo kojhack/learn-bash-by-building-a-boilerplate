@@ -98,3 +98,10 @@ more index.js
 __vsc_prompt_cmd_original
 cd ..
 cd ..
+cd project/node_modules
+cd node_modules/project
+cd ..
+ls --color=auto
+cd node_modules
+ls --color=auto
+cd ../..
