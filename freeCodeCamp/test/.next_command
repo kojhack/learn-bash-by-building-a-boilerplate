@@ -70,3 +70,5 @@ pwd
 ls --color=auto
 cd test
 pwd
+ld
+ls --color=auto
