@@ -189,3 +189,14 @@ cd ..
 ls --color=auto
 touch lato.ttf
 mv lato.ttf fonts
+rm menlo.otf fonts
+r v menlo.otf fonts
+mv menlo.otf fonts
+mv menlo.otf fonts
+ls --color=auto
+cd fonts
+ls --color=auto
+cd ..
+ls --color=auto
+touch menlo.otf
+mv menlo.otf fonts
